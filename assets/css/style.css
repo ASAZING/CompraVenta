@@ -1,0 +1,20 @@
+ *{
+     margin: 0;
+     padding: 0;
+     font-family: 'Roboto', sans-serif;
+     box-sizing: border-box;
+ }
+ body{
+     background-color: #1453f3;
+     padding-left: 50px;
+     padding-right: 50px;
+     min-height: 100vh;
+ }
+
+ .navbar{
+     background: transparent !important;
+ }
+ .nav-item a, .logo{
+     color: white !important;
+ }
+
